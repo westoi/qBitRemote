@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72" width="512" height="512">
+  <!-- App icon: the adaptive launcher icon (bg #0B57D0 + white "q"/download
+       glyph) flattened into one SVG. The viewBox crops to the launcher's
+       ~72dp mask zone of the 108dp canvas, so the glyph-to-tile proportions
+       match what the launcher actually shows. Path data is carried over
+       verbatim from ic_launcher_foreground (scale 0.62, translate 20.5). -->
+  <rect x="18" y="18" width="72" height="72" rx="18" fill="#0B57D0"/>
+  <g transform="translate(20.5 20.5) scale(0.62)" fill="#FFFFFF">
+    <path d="M54,16C33,16 16,33 16,54C16,75 33,92 54,92C62,92 69.4,89.6 75.5,85.5L80,92L90,84L84.5,77.5C89.2,71.2 92,63 92,54C92,33 75,16 54,16ZM54,28C68.4,28 80,39.6 80,54C80,68.4 68.4,80 54,80C39.6,80 28,68.4 28,54C28,39.6 39.6,28 54,28Z"/>
+    <path d="M54,36L40,54L48,54L48,72L60,72L60,54L68,54Z"/>
+  </g>
+</svg>
