@@ -1,12 +1,18 @@
 <h1 align="center">
-  <img src="./assets/icon-v2.svg" alt="qBitRemote" width="160" />
+  <img src="./assets/icon.svg" alt="qBitRemote" width="160" />
   <br>
   qBitRemote — a native Android remote client for qBittorrent
 </h1>
 
 <h3 align="center">
-A <a href="https://www.qbittorrent.org/">qBittorrent</a> remote client built with <a href="https://kotlinlang.org/">Kotlin</a> + <a href="https://developer.android.com/compose">Jetpack Compose</a>. &nbsp;|&nbsp; <a href="README.md">中文</a>
+A <a href="https://www.qbittorrent.org/">qBittorrent</a> remote client built with <a href="https://kotlinlang.org/">Kotlin</a> + <a href="https://developer.android.com/compose">Jetpack Compose</a>
 </h3>
+
+<h3 align="center">
+<a href="README.md">简体中文</a>&nbsp;|&nbsp;English
+</h3>
+
+<p align="center"><img src="./assets/screenshots/torrent-list.png" width="180" alt="Torrent list" /><img src="./assets/screenshots/torrent-detail.png" width="180" alt="Torrent detail" /><img src="./assets/screenshots/torrent-trackers.png" width="180" alt="Tracker management" /><img src="./assets/screenshots/app-settings.png" width="180" alt="App settings" /></p>
 
 ## Features
 

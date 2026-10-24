@@ -1,12 +1,18 @@
 <h1 align="center">
-  <img src="./assets/icon-v2.svg" alt="qBitRemote" width="160" />
+  <img src="./assets/icon.svg" alt="qBitRemote" width="160" />
   <br>
   qBitRemote — Android 原生 qBittorrent 远程管理客户端
 </h1>
 
 <h3 align="center">
-基于 <a href="https://kotlinlang.org/">Kotlin</a> + <a href="https://developer.android.com/compose">Jetpack Compose</a> 的 <a href="https://www.qbittorrent.org/">qBittorrent</a> 远程管理客户端。&nbsp;|&nbsp; <a href="README_EN.md">English</a>
+基于 <a href="https://kotlinlang.org/">Kotlin</a> + <a href="https://developer.android.com/compose">Jetpack Compose</a> 的 <a href="https://www.qbittorrent.org/">qBittorrent</a> 远程管理客户端
 </h3>
+
+<h3 align="center">
+简体中文&nbsp;|&nbsp;<a href="README_EN.md">English</a>
+</h3>
+
+<p align="center"><img src="./assets/screenshots/torrent-list.png" width="180" alt="种子列表" /><img src="./assets/screenshots/torrent-detail.png" width="180" alt="种子详情" /><img src="./assets/screenshots/torrent-trackers.png" width="180" alt="Tracker 管理" /><img src="./assets/screenshots/app-settings.png" width="180" alt="应用设置" /></p>
 
 ## 特点
 
