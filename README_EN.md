@@ -17,7 +17,7 @@ A <a href="https://www.qbittorrent.org/">qBittorrent</a> remote client built wit
 ## Features
 
 - **Lightweight & clean**
-    - 2.61 MB APK; no ads, no telemetry, no crash reporting — every connection goes directly to your own qBittorrent
+    - 2.6+ MB APK; no ads, no telemetry, no crash reporting — every connection goes directly to your own qBittorrent
 - **Complete management**
     - Multiple servers with Android Keystore-encrypted credentials and isolated sessions
     - Live torrent list: search, status/category/tag filters, multi-select batch actions
